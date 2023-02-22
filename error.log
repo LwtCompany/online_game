@@ -1,0 +1,11 @@
+{"level":"error","message":"127.0.0.1 - there's no place like home rgwegweg wegwege","timestamp":"2023-02-22 20:27:39"}
+{"level":"error","message":"Error with server Error: Cannot find module './loaderss'\nRequire stack:\n- E:\\Shoxrux\\online_game\\src\\app.ts","timestamp":"2023-02-22 20:28:09"}
+{"level":"error","message":"Error with server Error: Cannot find module './loaderss'\nRequire stack:\n- E:\\Shoxrux\\online_game\\src\\app.ts","timestamp":"2023-02-22 20:32:22"}
+{"level":"error","message":"Error with server Error: Cannot find module './loaderss'\nRequire stack:\n- E:\\Shoxrux\\online_game\\src\\app.ts","timestamp":"2023-02-22 20:33:16"}
+{"level":"error","message":"Error with server Error: Cannot find module './loaderss'\nRequire stack:\n- E:\\Shoxrux\\online_game\\src\\app.ts","timestamp":"2023-02-22 20:34:25"}
+{"level":"error","message":"Error with server Error: Cannot find module './loaderss'\nRequire stack:\n- E:\\Shoxrux\\online_game\\src\\app.ts","timestamp":"2023-02-22 20:34:41"}
+{"level":"error","message":"Error with server Error: Cannot find module './loaderss'\nRequire stack:\n- E:\\Shoxrux\\online_game\\src\\app.ts","timestamp":"2023-02-22 20:35:07"}
+{"level":"error","message":"Error with server Error: Cannot find module './loaderss'\nRequire stack:\n- E:\\Shoxrux\\online_game\\src\\app.ts","timestamp":"2023-02-22 20:35:15"}
+{"level":"error","message":"Error with server Error: Cannot find module './loaderss'\nRequire stack:\n- E:\\Shoxrux\\online_game\\src\\app.ts","timestamp":"2023-02-22 20:36:20"}
+{"level":"error","message":"Error with server Error: Cannot find module './loaderss'\nRequire stack:\n- E:\\Shoxrux\\online_game\\src\\app.ts","timestamp":"2023-02-22 20:36:27"}
+{"level":"error","message":"Error with server Error: Cannot find module '@/config'\nRequire stack:\n- E:\\Shoxrux\\online_game\\src\\loaders\\postgressql.ts\n- E:\\Shoxrux\\online_game\\src\\loaders\\index.ts\n- E:\\Shoxrux\\online_game\\src\\app.ts","timestamp":"2023-02-22 21:35:55"}
