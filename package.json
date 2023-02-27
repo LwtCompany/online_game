@@ -20,14 +20,15 @@
   },
   "dependencies": {
     "@types/cors": "^2.8.13",
+    "@types/mysql": "^2.15.21",
     "cors": "^2.8.5",
     "dotenv": "^16.0.3",
     "express": "^4.18.2",
     "method-override": "^3.0.0",
+    "mysql2": "^3.1.2",
     "package-name": "^0.1.0",
-    "pg": "^8.9.0",
-    "pg-hstore": "^2.3.4",
     "sequelize": "^6.28.1",
+    "typedi": "^0.10.0",
     "winston": "^3.8.2"
   }
 }

@@ -99,3 +99,137 @@
 {"level":"info","message":"✌️ DB loaded and connected!","timestamp":"2023-02-22 22:38:17"}
 {"level":"info","message":"✌️ Express loaded","timestamp":"2023-02-22 22:38:17"}
 {"level":"info","message":"\n        ################################################\n        \ud83d\udee1️  Server listening on port: 3001 \ud83d\udee1️\n        ################################################\n      ","timestamp":"2023-02-22 22:38:17"}
+{"level":"error","message":"Error with server Error: Dialect needs to be explicitly supplied as of v4.0.0","timestamp":"2023-02-27 20:55:48"}
+{"level":"error","message":"Error with server Error: Please install tedious package manually","timestamp":"2023-02-27 20:56:24"}
+{"level":"error","message":":( DB disconnected!","timestamp":"2023-02-27 20:59:31"}
+{"level":"info","message":"✌️ Express loaded","timestamp":"2023-02-27 20:59:31"}
+{"level":"info","message":"\n        ################################################\n        \ud83d\udee1️  Server listening on port: 3001 \ud83d\udee1️\n        ################################################\n      ","timestamp":"2023-02-27 20:59:31"}
+{"error":{"name":"SequelizeConnectionError","original":{"code":"ESOCKET"},"parent":{"code":"ESOCKET"}},"level":"error","message":":( DB disconnected!","timestamp":"2023-02-27 21:00:12"}
+{"level":"info","message":"✌️ Express loaded","timestamp":"2023-02-27 21:00:12"}
+{"level":"info","message":"\n        ################################################\n        \ud83d\udee1️  Server listening on port: 3001 \ud83d\udee1️\n        ################################################\n      ","timestamp":"2023-02-27 21:00:12"}
+{"error":{"name":"SequelizeConnectionError","original":{"code":"ESOCKET"},"parent":{"code":"ESOCKET"}},"level":"error","message":":( DB disconnected!","timestamp":"2023-02-27 21:03:41"}
+{"level":"info","message":"✌️ Express loaded","timestamp":"2023-02-27 21:03:41"}
+{"level":"info","message":"\n        ################################################\n        \ud83d\udee1️  Server listening on port: 3001 \ud83d\udee1️\n        ################################################\n      ","timestamp":"2023-02-27 21:03:41"}
+{"error":{"name":"SequelizeConnectionError","original":{"code":"ESOCKET"},"parent":{"code":"ESOCKET"}},"level":"error","message":":( DB disconnected!","timestamp":"2023-02-27 21:04:32"}
+{"level":"info","message":"✌️ Express loaded","timestamp":"2023-02-27 21:04:32"}
+{"level":"info","message":"\n        ################################################\n        \ud83d\udee1️  Server listening on port: 3001 \ud83d\udee1️\n        ################################################\n      ","timestamp":"2023-02-27 21:04:32"}
+{"error":{"name":"SequelizeConnectionError","original":{"code":"ESOCKET"},"parent":{"code":"ESOCKET"}},"level":"error","message":":( DB disconnected!","timestamp":"2023-02-27 21:04:40"}
+{"level":"info","message":"✌️ Express loaded","timestamp":"2023-02-27 21:04:40"}
+{"level":"info","message":"\n        ################################################\n        \ud83d\udee1️  Server listening on port: 3001 \ud83d\udee1️\n        ################################################\n      ","timestamp":"2023-02-27 21:04:40"}
+{"error":{"name":"SequelizeConnectionError","original":{},"parent":{}},"level":"error","message":":( DB disconnected!","timestamp":"2023-02-27 21:06:21"}
+{"level":"info","message":"✌️ Express loaded","timestamp":"2023-02-27 21:06:21"}
+{"level":"info","message":"\n        ################################################\n        \ud83d\udee1️  Server listening on port: 3001 \ud83d\udee1️\n        ################################################\n      ","timestamp":"2023-02-27 21:06:21"}
+{"level":"info","message":"✌️ DB loaded and connected!","timestamp":"2023-02-27 21:06:46"}
+{"level":"info","message":"✌️ Express loaded","timestamp":"2023-02-27 21:06:46"}
+{"level":"info","message":"\n        ################################################\n        \ud83d\udee1️  Server listening on port: 3001 \ud83d\udee1️\n        ################################################\n      ","timestamp":"2023-02-27 21:06:46"}
+{"level":"info","message":"✌️ DB loaded and connected!","timestamp":"2023-02-27 21:07:50"}
+{"level":"info","message":"✌️ Express loaded","timestamp":"2023-02-27 21:07:50"}
+{"level":"info","message":"\n        ################################################\n        \ud83d\udee1️  Server listening on port: 3001 \ud83d\udee1️\n        ################################################\n      ","timestamp":"2023-02-27 21:07:50"}
+{"level":"info","message":"✌️ DB loaded and connected!","timestamp":"2023-02-27 21:08:10"}
+{"level":"info","message":"✌️ Express loaded","timestamp":"2023-02-27 21:08:10"}
+{"level":"info","message":"\n        ################################################\n        \ud83d\udee1️  Server listening on port: 3001 \ud83d\udee1️\n        ################################################\n      ","timestamp":"2023-02-27 21:08:10"}
+{"level":"info","message":"✌️ DB loaded and connected!","timestamp":"2023-02-27 21:10:31"}
+{"level":"info","message":"✌️ Express loaded","timestamp":"2023-02-27 21:10:31"}
+{"level":"info","message":"\n        ################################################\n        \ud83d\udee1️  Server listening on port: 3001 \ud83d\udee1️\n        ################################################\n      ","timestamp":"2023-02-27 21:10:31"}
+{"level":"info","message":"✌️ DB loaded and connected!","timestamp":"2023-02-27 21:10:53"}
+{"level":"info","message":"✌️ Express loaded","timestamp":"2023-02-27 21:10:53"}
+{"level":"info","message":"\n        ################################################\n        \ud83d\udee1️  Server listening on port: 3001 \ud83d\udee1️\n        ################################################\n      ","timestamp":"2023-02-27 21:10:53"}
+{"level":"info","message":"✌️ DB loaded and connected!","timestamp":"2023-02-27 21:11:09"}
+{"level":"info","message":"✌️ Express loaded","timestamp":"2023-02-27 21:11:09"}
+{"level":"info","message":"\n        ################################################\n        \ud83d\udee1️  Server listening on port: 3001 \ud83d\udee1️\n        ################################################\n      ","timestamp":"2023-02-27 21:11:09"}
+{"level":"info","message":"✌️ DB loaded and connected!","timestamp":"2023-02-27 21:11:54"}
+{"level":"info","message":"✌️ Express loaded","timestamp":"2023-02-27 21:11:54"}
+{"level":"info","message":"\n        ################################################\n        \ud83d\udee1️  Server listening on port: 3001 \ud83d\udee1️\n        ################################################\n      ","timestamp":"2023-02-27 21:11:54"}
+{"level":"info","message":"✌️ DB loaded and connected!","timestamp":"2023-02-27 21:12:56"}
+{"level":"info","message":"✌️ Express loaded","timestamp":"2023-02-27 21:12:56"}
+{"level":"info","message":"\n        ################################################\n        \ud83d\udee1️  Server listening on port: 3001 \ud83d\udee1️\n        ################################################\n      ","timestamp":"2023-02-27 21:12:56"}
+{"error":{"diagnosticCodes":[2551]},"level":"error","message":":( DB disconnected!","timestamp":"2023-02-27 21:14:44"}
+{"level":"info","message":"✌️ Express loaded","timestamp":"2023-02-27 21:14:44"}
+{"level":"info","message":"\n        ################################################\n        \ud83d\udee1️  Server listening on port: 3001 \ud83d\udee1️\n        ################################################\n      ","timestamp":"2023-02-27 21:14:44"}
+{"level":"info","message":"✌️ DB loaded and connected!","timestamp":"2023-02-27 21:15:10"}
+{"level":"info","message":"✌️ Express loaded","timestamp":"2023-02-27 21:15:10"}
+{"level":"info","message":"\n        ################################################\n        \ud83d\udee1️  Server listening on port: 3001 \ud83d\udee1️\n        ################################################\n      ","timestamp":"2023-02-27 21:15:10"}
+{"level":"info","message":"✌️ DB loaded and connected!","timestamp":"2023-02-27 21:15:52"}
+{"level":"info","message":"✌️ Express loaded","timestamp":"2023-02-27 21:15:52"}
+{"level":"info","message":"\n        ################################################\n        \ud83d\udee1️  Server listening on port: 3001 \ud83d\udee1️\n        ################################################\n      ","timestamp":"2023-02-27 21:15:52"}
+{"level":"info","message":"✌️ DB loaded and connected!","timestamp":"2023-02-27 21:16:07"}
+{"level":"info","message":"✌️ Express loaded","timestamp":"2023-02-27 21:16:07"}
+{"level":"info","message":"\n        ################################################\n        \ud83d\udee1️  Server listening on port: 3001 \ud83d\udee1️\n        ################################################\n      ","timestamp":"2023-02-27 21:16:07"}
+{"level":"info","message":"✌️ DB loaded and connected!","timestamp":"2023-02-27 21:20:47"}
+{"level":"info","message":"✌️ Express loaded","timestamp":"2023-02-27 21:20:47"}
+{"level":"info","message":"\n        ################################################\n        \ud83d\udee1️  Server listening on port: 3001 \ud83d\udee1️\n        ################################################\n      ","timestamp":"2023-02-27 21:20:47"}
+{"level":"info","message":"✌️ DB loaded and connected!","timestamp":"2023-02-27 21:23:27"}
+{"level":"info","message":"✌️ Express loaded","timestamp":"2023-02-27 21:23:27"}
+{"level":"info","message":"\n        ################################################\n        \ud83d\udee1️  Server listening on port: 3001 \ud83d\udee1️\n        ################################################\n      ","timestamp":"2023-02-27 21:23:27"}
+{"level":"info","message":"✌️ DB loaded and connected!","timestamp":"2023-02-27 21:24:37"}
+{"level":"info","message":"✌️ Express loaded","timestamp":"2023-02-27 21:24:37"}
+{"level":"info","message":"\n        ################################################\n        \ud83d\udee1️  Server listening on port: 3001 \ud83d\udee1️\n        ################################################\n      ","timestamp":"2023-02-27 21:24:37"}
+{"level":"info","message":"✌️ DB loaded and connected!","timestamp":"2023-02-27 21:25:03"}
+{"level":"info","message":"✌️ Express loaded","timestamp":"2023-02-27 21:25:03"}
+{"level":"info","message":"\n        ################################################\n        \ud83d\udee1️  Server listening on port: 3001 \ud83d\udee1️\n        ################################################\n      ","timestamp":"2023-02-27 21:25:03"}
+{"level":"error","message":"Error with server Error: Cannot find module '@/config'\nRequire stack:\n- E:\\Shoxrux\\online_game\\src\\loaders\\express.ts\n- E:\\Shoxrux\\online_game\\src\\loaders\\index.ts\n- E:\\Shoxrux\\online_game\\src\\app.ts","timestamp":"2023-02-27 21:25:37"}
+{"level":"error","message":"Error with server Error: Cannot find module '@/api'\nRequire stack:\n- E:\\Shoxrux\\online_game\\src\\loaders\\express.ts\n- E:\\Shoxrux\\online_game\\src\\loaders\\index.ts\n- E:\\Shoxrux\\online_game\\src\\app.ts","timestamp":"2023-02-27 21:25:56"}
+{"level":"info","message":"✌️ DB loaded and connected!","timestamp":"2023-02-27 21:26:07"}
+{"level":"info","message":"✌️ Express loaded","timestamp":"2023-02-27 21:26:07"}
+{"level":"info","message":"\n        ################################################\n        \ud83d\udee1️  Server listening on port: 3001 \ud83d\udee1️\n        ################################################\n      ","timestamp":"2023-02-27 21:26:07"}
+{"level":"info","message":"✌️ DB loaded and connected!","timestamp":"2023-02-27 21:28:28"}
+{"level":"info","message":"✌️ Express loaded","timestamp":"2023-02-27 21:28:29"}
+{"level":"info","message":"\n        ################################################\n        \ud83d\udee1️  Server listening on port: 3001 \ud83d\udee1️\n        ################################################\n      ","timestamp":"2023-02-27 21:28:29"}
+{"level":"info","message":"✌️ DB loaded and connected!","timestamp":"2023-02-27 21:29:15"}
+{"level":"info","message":"✌️ Express loaded","timestamp":"2023-02-27 21:29:15"}
+{"level":"info","message":"\n        ################################################\n        \ud83d\udee1️  Server listening on port: 3001 \ud83d\udee1️\n        ################################################\n      ","timestamp":"2023-02-27 21:29:15"}
+{"level":"info","message":"✌️ DB loaded and connected!","timestamp":"2023-02-27 21:29:25"}
+{"level":"info","message":"✌️ Express loaded","timestamp":"2023-02-27 21:29:25"}
+{"level":"info","message":"\n        ################################################\n        \ud83d\udee1️  Server listening on port: 3001 \ud83d\udee1️\n        ################################################\n      ","timestamp":"2023-02-27 21:29:25"}
+{"level":"info","message":"✌️ DB loaded and connected!","timestamp":"2023-02-27 21:41:17"}
+{"level":"info","message":"✌️ Express loaded","timestamp":"2023-02-27 21:41:17"}
+{"level":"info","message":"\n        ################################################\n        \ud83d\udee1️  Server listening on port: 3001 \ud83d\udee1️\n        ################################################\n      ","timestamp":"2023-02-27 21:41:17"}
+{"level":"info","message":"✌️ DB loaded and connected!","timestamp":"2023-02-27 21:42:00"}
+{"level":"info","message":"✌️ Express loaded","timestamp":"2023-02-27 21:42:00"}
+{"level":"info","message":"\n        ################################################\n        \ud83d\udee1️  Server listening on port: 3001 \ud83d\udee1️\n        ################################################\n      ","timestamp":"2023-02-27 21:42:00"}
+{"level":"info","message":"✌️ DB loaded and connected!","timestamp":"2023-02-27 21:42:53"}
+{"level":"info","message":"✌️ Express loaded","timestamp":"2023-02-27 21:42:53"}
+{"level":"info","message":"\n        ################################################\n        \ud83d\udee1️  Server listening on port: 3001 \ud83d\udee1️\n        ################################################\n      ","timestamp":"2023-02-27 21:42:53"}
+{"level":"info","message":"✌️ DB loaded and connected!","timestamp":"2023-02-27 21:46:56"}
+{"level":"info","message":"✌️ Express loaded","timestamp":"2023-02-27 21:46:56"}
+{"level":"info","message":"\n        ################################################\n        \ud83d\udee1️  Server listening on port: 3001 \ud83d\udee1️\n        ################################################\n      ","timestamp":"2023-02-27 21:46:56"}
+{"level":"info","message":"✌️ DB loaded and connected!","timestamp":"2023-02-27 21:51:18"}
+{"level":"info","message":"✌️ Express loaded","timestamp":"2023-02-27 21:51:18"}
+{"level":"info","message":"\n        ################################################\n        \ud83d\udee1️  Server listening on port: 3001 \ud83d\udee1️\n        ################################################\n      ","timestamp":"2023-02-27 21:51:18"}
+{"level":"info","message":"✌️ DB loaded and connected!","timestamp":"2023-02-27 21:53:31"}
+{"level":"info","message":"✌️ Express loaded","timestamp":"2023-02-27 21:53:31"}
+{"level":"info","message":"\n        ################################################\n        \ud83d\udee1️  Server listening on port: 3001 \ud83d\udee1️\n        ################################################\n      ","timestamp":"2023-02-27 21:53:31"}
+{"level":"error","message":"Error with server TSError: ⨯ Unable to compile TypeScript:\n\u001b[96msrc/api/routes/user.ts\u001b[0m:\u001b[93m8\u001b[0m:\u001b[93m34\u001b[0m - \u001b[91merror\u001b[0m\u001b[90m TS2339: \u001b[0mProperty 'currentUser' does not exist on type 'Request<ParamsDictionary, any, any, ParsedQs, Record<string, any>>'.\r\n\r\n\u001b[7m8\u001b[0m       return res.json({user: req.currentUser}).status(200);\r\n\u001b[7m \u001b[0m \u001b[91m                                 ~~~~~~~~~~~\u001b[0m\r\n","timestamp":"2023-02-27 21:54:56"}
+{"level":"error","message":"Error with server TSError: ⨯ Unable to compile TypeScript:\n\u001b[96msrc/api/routes/user.ts\u001b[0m:\u001b[93m8\u001b[0m:\u001b[93m34\u001b[0m - \u001b[91merror\u001b[0m\u001b[90m TS2339: \u001b[0mProperty 'currentUser' does not exist on type 'Request<ParamsDictionary, any, any, ParsedQs, Record<string, any>>'.\r\n\r\n\u001b[7m8\u001b[0m       return res.json({user: req.currentUser}).status(200);\r\n\u001b[7m \u001b[0m \u001b[91m                                 ~~~~~~~~~~~\u001b[0m\r\n","timestamp":"2023-02-27 21:57:23"}
+{"level":"error","message":"Error with server TSError: ⨯ Unable to compile TypeScript:\n\u001b[96msrc/api/routes/user.ts\u001b[0m:\u001b[93m8\u001b[0m:\u001b[93m34\u001b[0m - \u001b[91merror\u001b[0m\u001b[90m TS2339: \u001b[0mProperty 'currentUser' does not exist on type 'Request<ParamsDictionary, any, any, ParsedQs, Record<string, any>>'.\r\n\r\n\u001b[7m8\u001b[0m       return res.json({user: req.currentUser}).status(200);\r\n\u001b[7m \u001b[0m \u001b[91m                                 ~~~~~~~~~~~\u001b[0m\r\n","timestamp":"2023-02-27 21:59:01"}
+{"level":"error","message":"Error with server TSError: ⨯ Unable to compile TypeScript:\n\u001b[96msrc/api/routes/user.ts\u001b[0m:\u001b[93m8\u001b[0m:\u001b[93m34\u001b[0m - \u001b[91merror\u001b[0m\u001b[90m TS2339: \u001b[0mProperty 'currentUser' does not exist on type 'Request<ParamsDictionary, any, any, ParsedQs, Record<string, any>>'.\r\n\r\n\u001b[7m8\u001b[0m       return res.json({user: req.currentUser}).status(200);\r\n\u001b[7m \u001b[0m \u001b[91m                                 ~~~~~~~~~~~\u001b[0m\r\n","timestamp":"2023-02-27 22:00:54"}
+{"level":"error","message":"Error with server TSError: ⨯ Unable to compile TypeScript:\n\u001b[96msrc/api/routes/user.ts\u001b[0m:\u001b[93m8\u001b[0m:\u001b[93m34\u001b[0m - \u001b[91merror\u001b[0m\u001b[90m TS2339: \u001b[0mProperty 'currentUser' does not exist on type 'Request<ParamsDictionary, any, any, ParsedQs, Record<string, any>>'.\r\n\r\n\u001b[7m8\u001b[0m       return res.json({user: req.currentUser}).status(200);\r\n\u001b[7m \u001b[0m \u001b[91m                                 ~~~~~~~~~~~\u001b[0m\r\n","timestamp":"2023-02-27 22:01:00"}
+{"level":"info","message":"✌️ DB loaded and connected!","timestamp":"2023-02-27 22:01:40"}
+{"level":"info","message":"✌️ Express loaded","timestamp":"2023-02-27 22:01:40"}
+{"level":"info","message":"\n        ################################################\n        \ud83d\udee1️  Server listening on port: 3001 \ud83d\udee1️\n        ################################################\n      ","timestamp":"2023-02-27 22:01:40"}
+{"level":"info","message":"✌️ DB loaded and connected!","timestamp":"2023-02-27 22:02:36"}
+{"level":"info","message":"✌️ Express loaded","timestamp":"2023-02-27 22:02:36"}
+{"level":"info","message":"\n        ################################################\n        \ud83d\udee1️  Server listening on port: 3001 \ud83d\udee1️\n        ################################################\n      ","timestamp":"2023-02-27 22:02:36"}
+{"level":"info","message":"✌️ DB loaded and connected!","timestamp":"2023-02-27 22:03:36"}
+{"level":"info","message":"✌️ Express loaded","timestamp":"2023-02-27 22:03:36"}
+{"level":"info","message":"\n        ################################################\n        \ud83d\udee1️  Server listening on port: 3001 \ud83d\udee1️\n        ################################################\n      ","timestamp":"2023-02-27 22:03:36"}
+{"level":"info","message":"✌️ DB loaded and connected!","timestamp":"2023-02-27 22:05:34"}
+{"level":"info","message":"✌️ Express loaded","timestamp":"2023-02-27 22:05:34"}
+{"level":"info","message":"\n        ################################################\n        \ud83d\udee1️  Server listening on port: 3001 \ud83d\udee1️\n        ################################################\n      ","timestamp":"2023-02-27 22:05:34"}
+{"level":"info","message":"✌️ DB loaded and connected!","timestamp":"2023-02-27 22:06:28"}
+{"level":"info","message":"✌️ Express loaded","timestamp":"2023-02-27 22:06:28"}
+{"level":"info","message":"\n        ################################################\n        \ud83d\udee1️  Server listening on port: 3001 \ud83d\udee1️\n        ################################################\n      ","timestamp":"2023-02-27 22:06:28"}
+{"level":"error","message":"Error with server TSError: ⨯ Unable to compile TypeScript:\n\u001b[96msrc/api/routes/user.ts\u001b[0m:\u001b[93m8\u001b[0m:\u001b[93m27\u001b[0m - \u001b[91merror\u001b[0m\u001b[90m TS2339: \u001b[0mProperty 'currentUser' does not exist on type 'Request<ParamsDictionary, any, any, ParsedQs, Record<string, any>>'.\r\n\r\n\u001b[7m8\u001b[0m       return res.send(req.currentUser).status(200);\r\n\u001b[7m \u001b[0m \u001b[91m                          ~~~~~~~~~~~\u001b[0m\r\n","timestamp":"2023-02-27 22:06:54"}
+{"level":"error","message":"Error with server TSError: ⨯ Unable to compile TypeScript:\n\u001b[96msrc/api/routes/user.ts\u001b[0m:\u001b[93m8\u001b[0m:\u001b[93m27\u001b[0m - \u001b[91merror\u001b[0m\u001b[90m TS2339: \u001b[0mProperty 'currentUser' does not exist on type 'Request<ParamsDictionary, any, any, ParsedQs, Record<string, any>>'.\r\n\r\n\u001b[7m8\u001b[0m       return res.send(req.currentUser).status(200);\r\n\u001b[7m \u001b[0m \u001b[91m                          ~~~~~~~~~~~\u001b[0m\r\n","timestamp":"2023-02-27 22:07:30"}
+{"level":"info","message":"✌️ DB loaded and connected!","timestamp":"2023-02-27 22:07:38"}
+{"level":"info","message":"✌️ Express loaded","timestamp":"2023-02-27 22:07:38"}
+{"level":"info","message":"\n        ################################################\n        \ud83d\udee1️  Server listening on port: 3001 \ud83d\udee1️\n        ################################################\n      ","timestamp":"2023-02-27 22:07:38"}
+{"level":"info","message":"✌️ DB loaded and connected!","timestamp":"2023-02-27 22:09:32"}
+{"level":"info","message":"✌️ Express loaded","timestamp":"2023-02-27 22:09:32"}
+{"level":"info","message":"\n        ################################################\n        \ud83d\udee1️  Server listening on port: 3001 \ud83d\udee1️\n        ################################################\n      ","timestamp":"2023-02-27 22:09:32"}
+{"level":"info","message":"✌️ DB loaded and connected!","timestamp":"2023-02-27 22:09:45"}
+{"level":"info","message":"✌️ Express loaded","timestamp":"2023-02-27 22:09:45"}
+{"level":"info","message":"\n        ################################################\n        \ud83d\udee1️  Server listening on port: 3001 \ud83d\udee1️\n        ################################################\n      ","timestamp":"2023-02-27 22:09:45"}
+{"level":"info","message":"✌️ DB loaded and connected!","timestamp":"2023-02-27 22:12:01"}
+{"level":"info","message":"✌️ Express loaded","timestamp":"2023-02-27 22:12:01"}
+{"level":"info","message":"\n        ################################################\n        \ud83d\udee1️  Server listening on port: 3001 \ud83d\udee1️\n        ################################################\n      ","timestamp":"2023-02-27 22:12:01"}

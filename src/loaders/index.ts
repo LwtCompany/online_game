@@ -1,15 +1,14 @@
 import expressLoader from './express';
 import Logger from './logger';
-import postgressqlLoader from './postgressql';
+import mysqlLoader from './mysql';
 export default async ({ expressApp }) => {
-  const postgressqlConnection = await postgressqlLoader();
+  const mysqlConnection = await mysqlLoader();
 
   try {
- 
-   await postgressqlConnection.authenticate();
+   await mysqlConnection.authenticate();
    Logger.info('✌️ DB loaded and connected!');
   } catch (error) {
-    Logger.error(':( DB disconnected!');
+    Logger.error(':( DB disconnected!', {error});
   }
 
   expressLoader({ app: expressApp });

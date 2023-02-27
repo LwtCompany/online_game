@@ -2,7 +2,6 @@
 import config from './config';
 import express from 'express';
 import Logger from './loaders/logger';
-require("./models/user")
 async function startServer() {
   try {
     const app = express();

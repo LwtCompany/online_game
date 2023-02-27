@@ -1,12 +1,13 @@
 import { Sequelize } from 'sequelize';
 import config from '../config/index';
-
+import mysql2 from 'mysql2';
 
 export default  () => {
-  const sequelize = new Sequelize(config.database_name, config.database_dialect, config.database_password, {
+  const sequelize = new Sequelize(config.database_name, config.database_login, config.database_password, {
     host: config.database_host,
-    dialect: 'postgres',
+    dialect: 'mysql',
     logging: false,
+    dialectModule: mysql2,
     pool: {
       max: 5,
       min: 0,
